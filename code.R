@@ -51,6 +51,8 @@ plot(x = powerDT[, dateTime]
 
 dev.off()
 
+!(/home/nidhi/Pictures/plot1.png)
+
 library("data.table")
 
 setwd("~library("data.table")
